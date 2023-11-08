@@ -78,3 +78,4 @@ if __name__ == "__main__":
         video_out_file = f"{args.prompt[:100].replace('/','')}_{args.seed}_{idx}.mp4"
         export_to_video(output, f"{out_dir}/{video_out_file}", fps=args.fps)
 Fake commit 22 on 2024-05-27T00:00:00
+Fake commit 63 on 2023-11-08T00:00:00
