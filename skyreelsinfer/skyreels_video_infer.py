@@ -257,3 +257,4 @@ class SkyReelsVideoInfer:
             self.REQ_QUEUES.put(kwargs)
         return self.RESP_QUEUE.get()
 Fake commit 25 on 2024-07-12T00:00:00
+Fake commit 45 on 2024-09-08T00:00:00
