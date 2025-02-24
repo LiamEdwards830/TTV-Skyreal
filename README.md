@@ -232,12 +232,3 @@ We would like to thank the contributors of <a href="https://huggingface.co/tence
   howpublished = {\url{https://github.com/SkyworkAI/SkyReels-V1}}
 }
 ```
-Fake commit 7 on 2024-04-15T00:00:00
-Fake commit 21 on 2023-11-04T00:00:00
-Fake commit 31 on 2024-06-03T00:00:00
-Fake commit 33 on 2024-02-14T00:00:00
-Fake commit 41 on 2024-06-22T00:00:00
-Fake commit 42 on 2024-09-06T00:00:00
-Fake commit 73 on 2024-02-24T00:00:00
-Fake commit 78 on 2024-07-13T00:00:00
-Fake commit 92 on 2024-04-29T00:00:00
